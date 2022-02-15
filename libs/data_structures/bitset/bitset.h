@@ -1,0 +1,6 @@
+#ifndef ALT_PROJECT_BITSET_H
+#define ALT_PROJECT_BITSET_H
+
+
+
+#endif //ALT_PROJECT_BITSET_H
